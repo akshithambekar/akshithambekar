@@ -1,25 +1,16 @@
-## Hi there 👋
-
-<!--
-**akshithambekar/akshithambekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Header](./github-header-image.png)
-
-## Akshith Ambekar
 
 ### Hi there 👋
 
-<p>My name is Akshith and I'm an undergraduate student studying computer science at George Mason University. I'm currently conducting research under Professor Zoran Duric, developing a dual digital twin system for a robotic factory setting. This summer, I'm working at Allwyn Corporation on a client-facing project for Amtrak.
+<p>My name is Akshith and I'm an undergraduate student studying computer science at George Mason University. I'm currently conducting research under Professor Zoran Duric, developing a dual digital twin system in a robotic factory environment. This summer, I'm working at Allwyn Corporation on a client-facing project for Amtrak.
 
-<p>I'm open to work! Feel free to reach out, or check out my projects and my website.
+<p>I'm open to work! Feel free to reach out, or check out my projects and my <a href="https://akshithambekar.com">website</a>.
+
+### Technical Skills
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Statistics
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akshithambekar)](https://git.io/streak-stats)
