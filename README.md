@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Header](./github-header-image.png)
+
+## Akshith Ambekar
+
+### Hi there 👋
+
+<p>My name is Akshith and I'm an undergraduate student studying computer science at George Mason University. I'm currently conducting research under Professor Zoran Duric, developing a dual digital twin system for a robotic factory setting. This summer, I'm working at Allwyn Corporation on a client-facing project for Amtrak.
+
+<p>I'm open to work! Feel free to reach out, or check out my projects and my website.
