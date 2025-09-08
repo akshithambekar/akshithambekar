@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 ### Hi there 👋
 
 <p>My name is Akshith and I'm an undergraduate student studying computer science at George Mason University.
