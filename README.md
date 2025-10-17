@@ -2,7 +2,7 @@
 
 <p>My name is Akshith and I'm an undergraduate student studying computer science at George Mason University.
 
-I'm currently working at MicroHealth as a software engineer intern on the full-stack development team, contributing to the development of various projects.
+I'm currently working at MicroHealth as a software engineer intern, contributing to various projects as a full-stack developer.
 
 <p>I'm open to work! Feel free to reach out, or check out my projects and my <a href="https://akshithambekar.com" target="_blank">website</a>.
 
