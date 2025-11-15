@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>My name is Akshith and I'm an undergraduate student studying computer science at George Mason University.
+<p>My name is Akshith and I'm currently studying computer science at George Mason University.
 
 I'm currently working at MicroHealth as a software engineer intern, contributing to various projects as a full-stack developer.
 
