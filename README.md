@@ -1,6 +1,6 @@
 ### Hi, I'm Akshith 👋
 
-<p>- Currently studying computer science at George Mason University.
+<p>- Studying computer science at George Mason University.
 
 <p>- Interning at MicroHealth, contributing to various projects as a full-stack developer.
 
